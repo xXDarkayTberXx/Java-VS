@@ -1,5 +1,3 @@
-//Comienzo 
-
 import java.util.Scanner; //IMPORTATE EN CADA SCRIPT ME DA IGUAL
 
 
